@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi👋, I'm Ethan 
+# Hi👋, I'm Ningmoon
 
 ### Automotive Control Engineer
 
